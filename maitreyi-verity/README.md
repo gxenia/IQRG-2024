@@ -1,5 +1,7 @@
 ![IQRG Banner for Research Projects](../IQRG_Banner_Research_Projects_2024.png)
 
-# [Add your Project name here]
+# Usage of VQE and QPE for Chemical Problems 
 
-[Add an abstract for your project here]
+Classical computers are inefficient in simulating quantum systems such as the atomic structures studied in chemistry. However, using quantum hardware to simulate quantum systems gives good results, for example in finding the Ground State Energy of molecules (GSE).  We used the Variational Quantum Eigensolver(VQE) and Quantum Phase Estimation (QPE) in finding the GSE of simple molecules, in our case LiH. 
+
+> The research poster can be found in the [IQRG Proceedings 2024](https://thinkingbeyond.education/iqrg_proceedings_2024/)
